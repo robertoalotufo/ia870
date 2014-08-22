@@ -14,9 +14,9 @@ setup(
     version="0.7",
     author="Roberto A Lotufo and collaborators",
     author_email="robertoalotufo@gmail.com",
-    description=("Python Morphology Toolbox for Teaching Image Processing"),
+    description="Python Morphology Toolbox for Teaching Image Processing",
     license="BSD 3 clauses",
-    keywords=["image processing","morphological image processing","mathematical morphology"]
+    keywords=["image processing", "morphological image processing", "mathematical morphology"],
     url="https://github.com/robertoalotufo/ia870",
     packages=['ia870'],
     long_description=read('README.txt'),
