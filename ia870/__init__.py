@@ -5,6 +5,8 @@
 # Toolbox ia870
 #
 
+__version__ = 'ia870 Python Morphology Toolbox version 0.8 25th Aug 2014'
+
 from iaaddm import iaaddm
 from iaareaclose import iaareaclose
 from iaareaopen import iaareaopen
