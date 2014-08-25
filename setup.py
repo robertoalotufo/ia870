@@ -11,7 +11,7 @@ def read(fname):
 
 setup(
     name="ia870",
-    version="0.7",
+    version="0.8",
     author="Roberto A Lotufo and collaborators",
     author_email="robertoalotufo@gmail.com",
     description="Python Morphology Toolbox for Teaching Image Processing",
