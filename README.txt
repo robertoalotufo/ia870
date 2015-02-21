@@ -1,5 +1,5 @@
 ===============================================================
-ia870 - Python Morphology Toolbox for Teaching Image Processing
+ia870 - pymorph - Python Morphology Toolbox for Teaching Image Processing
 ===============================================================
 
 Description
