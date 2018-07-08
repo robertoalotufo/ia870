@@ -8,7 +8,7 @@ def iamat2set(A):
 
 
     if len(A.shape) == 1: A = A[newaxis,:]
-    offsets = nonzero(ravel(A) - ialimits(A)[0])
+    offsets = nonzero(ravel(A) ^ ialimits(A)[0])
     if type(offsets) == type(()):
         offsets = offsets[0]        # for compatibility with numarray
     if len(offsets) == 0: return ([],[])
